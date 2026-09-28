@@ -1,0 +1,10 @@
+[
+  {
+    "source": "rag-overview",
+    "text": "Retrieval-augmented generation combines information retrieval with language generation. A retriever first selects evidence relevant to a query. The selected passages are then supplied to a generator so that the answer can be grounded in external information."
+  },
+  {
+    "source": "retrieval-evaluation",
+    "text": "Retrieval quality can be evaluated independently of generation. Recall at k measures how much relevant evidence is present among the first k results. Mean reciprocal rank rewards systems that place the first relevant result near the top of the ranking."
+  }
+]
